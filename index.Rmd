@@ -1,0 +1,6 @@
+---
+title: 'Corrected Correlations: A Bayesian Approach'
+---
+
+This is post about using Bayes to correct for correlation attenuation.
+
